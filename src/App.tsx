@@ -2,7 +2,6 @@ import React from 'react';
 import liff from '@line/liff'; // 追加
 import logo from './logo.svg';
 import './App.css';
-import { Button } from '@material-ui/core';
 
 function App() {
   /* 追加: メッセージ送信 */
